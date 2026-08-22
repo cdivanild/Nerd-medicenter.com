@@ -228,11 +228,11 @@ nav li:hover{
 
 .widget-tittle-bar{
 
-   width: 50px;
-   height: 3px;
-   background-color: #36a9e1;
-   margin-top: 20px; 
-   margin-left: 12px;
+    width: 50px;
+    height: 3px;
+    background-color: #36a9e1;
+    margin-top: 20px;
+    margin-left: 12px;
 }
 
 .widget{
