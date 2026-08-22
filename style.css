@@ -429,8 +429,8 @@ article a{
 
 .widget-body p{
    
-   border-bottom: 2px solid #253038;
-   font-size: 14px;
+ border-bottom: 1px solid #253038;
+ font-size: 21px;
 }
 
 .widget-body p a{
